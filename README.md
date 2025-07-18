@@ -64,3 +64,6 @@ To create a simple, clear, and visually intuitive Excel dashboard that tracks:
 ### 📌 About Me
 
 Hi, I’m Gafar; A Data Analyst focused on SaaS and FinTech. I break down messy data and turn it into clean dashboards and sharp, decision-ready insights.
+
+📌 Note: The raw dataset included in this repository is a **simulated replica** of the original file used for the project. It maintains the same structure, columns, and format — but the values have been regenerated for GitHub upload purposes.
+
